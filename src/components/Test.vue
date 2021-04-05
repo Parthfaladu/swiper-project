@@ -71,7 +71,7 @@
       text-align: center;
       font-weight: bold;
       font-size: 12 * 2;
-      //font-size: $font-size-huge * 2;
+      // font-size: $font-size-huge * 2;
       background-color: #2C8DFB;
       background-position: center;
       background-size: cover;
